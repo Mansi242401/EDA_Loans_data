@@ -22,7 +22,7 @@ The Prosper Loan dataset consists of 113,937 loans with 81 variables on each loa
 The EDA reveals several key insights and conclusions:
 
 1. Relationship between loan status and interest rates: Interest rates are generally lower for completed and current loans, while past-due, defaulted, and charged-off loans tend to have higher interest rates.
-2. Impact of borrower occupation on interest rates: Certain occupations, such as teachers, homemakers, bus drivers, and flight attendants, are charged higher interest rates compared to others.
+2. Impact of borrower occupation on interest rates: Certain occupations, such as teachers, religious, landscaping, civil service, postal service, Aministrative Assistant, Nurse, Nurse Aide, Clergy, clerical, Military Enlisted and Waier/Waitress who are being charged higher interest rates compared to others are charged higher interest rates compared to others.
 3. Influence of loan term on interest rates: Long-term loans (5 years) generally have lower borrower APRs compared to shorter-term loans.
 4. Relationship between borrower credit rating and interest rates: Borrowers with higher credit ratings tend to receive lower interest rates, indicating a clear inverse relationship.
 5. Other interesting relationships: The analysis uncovers relationships between variables such as occupation and stated monthly income, credit rating and trade delinquency, and income verification and loan status.
