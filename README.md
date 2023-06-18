@@ -43,10 +43,10 @@ To run the Jupyter Notebook and reproduce the analysis, follow these steps:
 ## Dependencies
 The analysis was performed using Python 3.7 and the following libraries:
 
-Pandas
-NumPy
-Matplotlib
-Seaborn
+- Pandas version 1.5.3
+- NumPy version 1.20.3
+- Matplotlib 
+- Seaborn
 Ensure that these packages are installed before running the notebook.
 
 ## License
