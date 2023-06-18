@@ -5,9 +5,9 @@ This repository contains an in-depth Exploratory Data Analysis (EDA) of the Pros
 The Prosper Loan dataset consists of 113,937 loans with 81 variables on each loan. The variables include loan amount, borrower rate (interest rate), loan status, borrower income, and many others. The dataset provides a rich source of information to explore and analyze the factors influencing loan performance and borrower characteristics.
 
 ## Files
-prosper_loan_eda.ipynb: Jupyter Notebook containing the complete EDA process, including data cleaning, visualization, and analysis.
-prosper_loan_insights.ipynb : Jupyter Notebook containing the key insights that can be draw from this analysis.
-prosperLoanData.csv: CSV file containing the original Prosper Loan dataset used in the analysis.
+1. prosper_loan_eda.ipynb: Jupyter Notebook containing the complete EDA process, including data cleaning, visualization, and analysis.
+2. prosper_loan_insights.ipynb : Jupyter Notebook containing the key insights that can be draw from this analysis.
+3. prosperLoanData.csv: CSV file containing the original Prosper Loan dataset used in the analysis.
 
 ## Analysis Highlights
 1. Data Cleaning: The analysis begins with thorough data cleaning, handling missing values, and transforming variables to ensure data quality and consistency.
