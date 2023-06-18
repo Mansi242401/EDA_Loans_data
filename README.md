@@ -7,7 +7,7 @@ The Prosper Loan dataset consists of 113,937 loans with 81 variables on each loa
 ## Files
 1. prosper_loan_eda.ipynb: Jupyter Notebook containing the complete EDA process, including data cleaning, visualization, and analysis.
 2. prosper_loan_insights.ipynb : Jupyter Notebook containing the key insights that can be draw from this analysis.
-3. prosperLoanData.csv: CSV file containing the original Prosper Loan dataset used in the analysis.
+3. prosperLoanData.csv: This file can be downloaded from the link- https://www.kaggle.com/datasets/henryokam/prosper-loan-data
 
 ## Analysis Highlights
 1. Data Cleaning: The analysis begins with thorough data cleaning, handling missing values, and transforming variables to ensure data quality and consistency.
